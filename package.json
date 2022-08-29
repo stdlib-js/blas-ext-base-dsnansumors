@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-dsnansumors",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Calculate the sum of single-precision floating-point strided array elements, ignoring NaN values, using ordinary recursive summation with extended accumulation, and returning an extended precision result.",
   "license": "Apache-2.0",
   "author": {
