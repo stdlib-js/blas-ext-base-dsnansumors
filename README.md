@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dsnansumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnansumors@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-ext-base-dsnansumors/tags). For example,
+
+```javascript
 import dsnansumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnansumors@v0.2.1-deno/mod.js';
 ```
 
@@ -157,7 +162,7 @@ var v = dsnansumors.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import dsnansumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnansumors@v0.2.1-deno/mod.js';
+import dsnansumors from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsnansumors@deno/mod.js';
 
 var x;
 var i;
