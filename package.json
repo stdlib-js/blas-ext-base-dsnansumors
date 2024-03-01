@@ -49,17 +49,17 @@
     "@stdlib/utils-try-require": "^0.2.1"
   },
   "devDependencies": {
-    "@stdlib/array-float32": "^0.2.0",
+    "@stdlib/array-float32": "^0.2.1",
     "@stdlib/assert-is-browser": "^0.2.1",
-    "@stdlib/math-base-special-floor": "^0.2.0",
-    "@stdlib/math-base-special-pow": "^0.2.0",
+    "@stdlib/math-base-special-floor": "^0.2.1",
+    "@stdlib/math-base-special-pow": "^0.2.1",
     "@stdlib/math-base-special-round": "^0.2.1",
-    "@stdlib/random-base-randu": "^0.2.0",
+    "@stdlib/random-base-randu": "^0.2.1",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
-    "@stdlib/bench-harness": "^0.2.0"
+    "@stdlib/bench-harness": "^0.2.1"
   },
   "engines": {
     "node": ">=0.10.0",
