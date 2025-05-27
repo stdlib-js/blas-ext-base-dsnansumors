@@ -59,6 +59,7 @@
     "@stdlib/array-filled-by": "^0.2.1",
     "@stdlib/array-float32": "^0.2.2",
     "@stdlib/assert-is-browser": "^0.2.2",
+    "@stdlib/math-base-assert-is-negative-zero": "^0.2.2",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/random-base-bernoulli": "^0.2.1",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
