@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-23)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8f2c32e`](https://github.com/stdlib-js/stdlib/commit/8f2c32e8ba9b6f92d5eb397b3ef357ed5edc3d15) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dsnansumors` [(#10113)](https://github.com/stdlib-js/stdlib/pull/10113) _(by AyushiJain18270)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   AyushiJain18270
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-07)
